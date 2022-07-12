@@ -8,6 +8,6 @@ In our game, we created three different levels for the user, and there is also a
 - The "R" or "Space" buttons are used to shoot
 - The "Q" button is used to throw the grenade
 
-For more detail on what our game looks like, you may download and run our code and for detail on how we made the game program, you may check the documentation that I attached in the code.
+For more detail on what our game looks like, you may download and run our code and for detail on how we made the game program, you may check the documentation that I attached in the code. If you want to get the full assets and audio for the game along with the code (Main.py), you can download the MID_ShooterGame_PyGame.zip file.
 
 ![](shootgame.png)
