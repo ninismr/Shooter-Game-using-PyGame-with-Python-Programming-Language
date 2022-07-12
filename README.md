@@ -10,4 +10,4 @@ In our game, we created three different levels for the user, and there is also a
 
 For more detail on what our game looks like, you may download and run our code and for detail on how we made the game program, you may check the documentation that we attached in the code. If you want to get the full assets and audio for the game along with the code (Main.py), you can download the MID_ShooterGame_PyGame.zip file.
 
-![](ShootGame.mp4)
+https://user-images.githubusercontent.com/98800243/178613990-db0e5d07-1a31-4b07-993e-99873fca3c27.mp4
